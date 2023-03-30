@@ -1,6 +1,6 @@
-## Я Java разработчик 👨‍💻
+### Hi there 👋
 
-### Мой стек технологий:
+### I'm Java developer 👨‍💻
 ![Java](https://img.shields.io/badge/-Java_11-lightgrey?style=for-the-badge&logo=oracle&logoColor=red)
 ![Cи](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=C&logoColor=6296CC)
 ![Spring Framework](https://img.shields.io/badge/-Spring-lightgrey?style=for-the-badge&logo=Spring&logoColor=green)
@@ -12,7 +12,7 @@
 <br><br>
 
 
-### Можете связаться мной:
+### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-lightgrey?style=for-the-badge&logo=telegram)](https://t.me/SurikovDA)
 [![VK](https://img.shields.io/badge/-ВКонтакте-lightgrey?style=for-the-badge&logo=vk)](https://vk.com/surikovda)
 
