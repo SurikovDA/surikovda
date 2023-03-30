@@ -1,4 +1,4 @@
-![Header](https://github.com/SurikovDA/surikovda/blob/develop/assets/maxresdefault.jpg)
+![Header](https://github.com/SurikovDA/surikovda/blob/develop/assets/maxresdefault_live.jpg)
 ## 👨‍💻 Обо мне:
 * ☕ Я студент яндекс.практикума "Java - разработчик"
 * 🏊 Прошел бассейн школы 21 (Школа разработки от сбера, на Си)
