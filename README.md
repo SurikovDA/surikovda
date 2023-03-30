@@ -19,4 +19,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram)](https://t.me/SurikovDA)
 [![VK](https://img.shields.io/badge/-ВКонтакте-informational?style=for-the-badge&logo=vk)](https://vk.com/surikovda)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurikovDA&show_icons=true&hide=stars)
 
